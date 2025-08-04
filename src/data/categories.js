@@ -84,4 +84,4 @@ export const categories = [
         "title": "Giyim",
         "image": "http://cdn.getir.com/cat/551430043427d5010a3a5c5f_1619242679723_1619242679822.jpeg"
     }
-]; 
+];

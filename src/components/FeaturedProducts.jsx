@@ -91,7 +91,7 @@ const FeaturedProducts = () => {
           ))}
         </div>
 
-        {/* View All Products Button */}
+        
         <div className="text-center mt-8">
           <button className="inline-flex items-center px-6 py-3 bg-purple-600 text-white rounded-lg hover:bg-purple-700 transition-colors duration-200 font-medium">
             Tüm Ürünleri Gör
