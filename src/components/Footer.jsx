@@ -59,7 +59,7 @@ const Footer = () => {
             </ul>
           </div>
 
-          {/* Contact Info */}
+          {}
           <div className="space-y-4">
             <h3 className="text-lg font-semibold">İletişim</h3>
             <div className="space-y-2 text-sm text-gray-300">
@@ -86,7 +86,7 @@ const Footer = () => {
           </div>
         </div>
 
-        {/* Bottom Bar */}
+        {}
         <div className="border-t border-gray-800 mt-8 pt-8 text-center text-sm text-gray-400">
           <p>&copy; 2024 Getir. Tüm hakları saklıdır.</p>
         </div>
